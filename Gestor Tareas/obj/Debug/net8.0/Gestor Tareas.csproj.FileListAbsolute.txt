@@ -1,0 +1,42 @@
+C:\Users\Public\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.exe
+C:\Users\Public\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.deps.json
+C:\Users\Public\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.runtimeconfig.json
+C:\Users\Public\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.dll
+C:\Users\Public\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.pdb
+C:\Users\Public\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.AssemblyInfoInputs.cache
+C:\Users\Public\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.AssemblyInfo.cs
+C:\Users\Public\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Public\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.dll
+C:\Users\Public\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\refint\Gestor Tareas.dll
+C:\Users\Public\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.pdb
+C:\Users\Public\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.genruntimeconfig.cache
+C:\Users\Public\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\ref\Gestor Tareas.dll
+C:\Users\PC\Desktop\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.exe
+C:\Users\PC\Desktop\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.deps.json
+C:\Users\PC\Desktop\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.runtimeconfig.json
+C:\Users\PC\Desktop\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.dll
+C:\Users\PC\Desktop\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.pdb
+C:\Users\PC\Desktop\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.AssemblyInfo.cs
+C:\Users\PC\Desktop\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.dll
+C:\Users\PC\Desktop\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\refint\Gestor Tareas.dll
+C:\Users\PC\Desktop\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.pdb
+C:\Users\PC\Desktop\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.genruntimeconfig.cache
+C:\Users\PC\Desktop\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\ref\Gestor Tareas.dll
+c:\Users\marie\Downloads\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.exe
+c:\Users\marie\Downloads\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.deps.json
+c:\Users\marie\Downloads\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.runtimeconfig.json
+c:\Users\marie\Downloads\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.dll
+c:\Users\marie\Downloads\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\bin\Debug\net8.0\Gestor Tareas.pdb
+c:\Users\marie\Downloads\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\marie\Downloads\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.AssemblyInfoInputs.cache
+c:\Users\marie\Downloads\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.AssemblyInfo.cs
+c:\Users\marie\Downloads\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.csproj.CoreCompileInputs.cache
+c:\Users\marie\Downloads\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.dll
+c:\Users\marie\Downloads\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\refint\Gestor Tareas.dll
+c:\Users\marie\Downloads\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.pdb
+c:\Users\marie\Downloads\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\Gestor Tareas.genruntimeconfig.cache
+c:\Users\marie\Downloads\Gestor de tareas pendientes\Gestor de tareas pendientes\Gestor Tareas\obj\Debug\net8.0\ref\Gestor Tareas.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gestor Tareas/1.0.0": {
+        "runtime": {
+          "Gestor Tareas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gestor Tareas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
